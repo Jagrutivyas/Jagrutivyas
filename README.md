@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jagruti Vyas</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=e876c1&center=true&lines=A+passionate+Quality+engineer;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=e876c1&center=true&lines=A+passionate+Quality+Engineer;&center=true&width=380&height=45"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JagrutiVyas&label=Profile%20views&color=0e75b6&style=flat" alt="JagrutiVyas" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dzdnZzaGNtbG9lbG53dWo1Z203c3k3Zmw5ejBrZ2Rwa3Nscjd2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dzdnZzaGNtbG9lbG53dWo1Z203c3k3Zmw5ejBrZ2Rwa3Nscjd2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JagrutiVyas&label=Profile%20views&color=0e75b6&style=flat" alt="JagrutiVyas" /> </p>
 
 - 🔭 I’m currently working on **Python projects**
 - 🌱 I’m currently learning **Playwright**
@@ -12,7 +13,9 @@
 - 💬 Ask me about **Test Automation frameworks and QA Processes**
 - 📫 How to reach me: **jagruti7977@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/jagruti-vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagruti-vyas" height="30" width="40" /></a>
 </p>
